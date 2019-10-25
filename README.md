@@ -1,6 +1,6 @@
 ----------------------------------------Dataset for the article:----------------------------------------------------------------
 --------Entrainment of mammalian motile cilia in the brain with hydrodynamic forces.--------------------------------------------
---by Nicola Pellicciotta--
+--by Nicola Pellicciotta et al.--
 
 
 We analysed the dynamics of ependymal ciliated cells under oscillatory flow. The complete dataset is composed of more than 2 Tb, so here we uploded only a complete dataset for one cell.
