@@ -29,7 +29,7 @@ for each flow treatment (for example 60X_V2_O3_P40.27Nov2018_17.50.20)  we find 
 step2_arnold.m:
 From the fft spectra the code evaluate if the cilia were entrianed by the external flow. THe procedure is explained in the methods of the paper. For each entrianment event it plot a black filled circle, otherwise an empty circle. Eventually it save a variable Cell.mat that contain the entrainment information. (the one that I used is Cell_nicola.mat). 
 
-This procedure was repeated for all the cell analysed (58 cells) and then statistical analysis is performed. The code used for the figures in the article are on github.   
+This procedure was repeated for all the cell analysed (58 cells) and then statistical analysis is performed. The code used for the figures in the article are in the directory frequency/synchonisation/figures.   
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
